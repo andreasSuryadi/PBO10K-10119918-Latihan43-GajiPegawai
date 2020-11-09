@@ -7,8 +7,15 @@ package pbo10k10119918latihan43gajipegawai;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : IF-10K
+ * NIM      : 10119918
+ * Deskripsi Program : Menampilkan hasil perhitungan gaji pegawai menggunakan
+ * sistem getter setter
+ *
  */
+
 public class PBO10K10119918Latihan43GajiPegawai {
 
     /**
